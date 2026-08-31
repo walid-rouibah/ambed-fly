@@ -24,7 +24,7 @@ The extension is intended to work across Linux distributions that use GNOME Shel
 
 ### GNOME Extensions
 
-Ambed Fly will be available through GNOME Extensions after the extension has been reviewed and published.
+The extension is now available on the Genome Extensions Center under the name Ambed Fly
 
 ### Manual installation
 
