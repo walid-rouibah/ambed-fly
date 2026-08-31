@@ -1,34 +1,52 @@
 # Ambed Fly
 
-A small animated fly for the GNOME desktop.
+A lightweight animated fly for the GNOME desktop.
 
-Ambed Fly adds a lightweight animated fly to the desktop. The fly moves naturally around the screen and can react to mouse movement and moving windows.
+Ambed Fly brings a small animated fly to your desktop that naturally wanders around the screen and reacts to mouse movement and moving windows.
+
+The extension is designed to be simple, lightweight, and unobtrusive while adding a small touch of life to the desktop.
+
+---
 
 ## Features
 
-- Animated fly with multiple frames
+- Animated fly with multiple animation frames
 - Natural wandering movement
-- Smooth direction changes
+- Smooth and dynamic direction changes
 - Mouse interaction
-- Reaction to moving windows
-- Lightweight and simple
-- Designed for GNOME Shell
+- Reacts to moving windows
+- Lightweight and unobtrusive
+- Simple and minimal design
+- Designed specifically for GNOME Shell
+
+---
 
 ## Compatibility
 
-Ambed Fly is designed for GNOME Shell 45 and later.
+Ambed Fly is designed for:
 
-The extension is intended to work across Linux distributions that use GNOME Shell.
+- GNOME Shell 45
+- GNOME Shell 46
+- GNOME Shell 47
+- GNOME Shell 48
+- GNOME Shell 49
+- GNOME Shell 50
+
+It is intended to work across Linux distributions that use compatible versions of GNOME Shell.
+
+---
 
 ## Installation
 
 ### GNOME Extensions
 
-The extension is now available on the Genome Extensions Center under the name Ambed Fly
+Ambed Fly is available through the official GNOME Extensions website.
 
-### Manual installation
+Search for **Ambed Fly** and install it directly from the GNOME Extensions website.
+
+### Manual Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/walrou/ambed-fly.git
+git clone https://github.com/walid-rouibah/ambed-fly.git
