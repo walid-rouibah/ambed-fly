@@ -1,6 +1,4 @@
-<h1 align="center">
-  Ambed Fly
-</h1>
+# Ambed Fly
 
 <p align="center">
   <strong>A lightweight animated fly for the GNOME desktop.</strong>
@@ -13,56 +11,30 @@
 </p>
 
 <p align="center">
-  Ambed Fly brings a small animated fly to your desktop that naturally wanders around the screen<br>
+  Ambed Fly brings a small animated fly to your desktop that naturally wanders around the screen
   and reacts to mouse movement and moving windows.
 </p>
 
 <p align="center">
-  <i>Simple, lightweight, and unobtrusive — with a small touch of life for your desktop.</i>
+  <i>Simple, lightweight, and unobtrusive — adding a small touch of life to your desktop.</i>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bug.png" width="30" height="30" alt="Bug" /> Features
+## ✨ Features
 
-<table>
-<tr>
-<td width="50%">
-
-### Animated Fly
-Multiple animation frames for a smooth and lively appearance.
-
-### Natural Movement
-The fly wanders naturally around the desktop.
-
-### Smooth Direction Changes
-Dynamic and fluid movement with natural direction changes.
-
-### Mouse Interaction
-The fly reacts to mouse movement.
-
-</td>
-<td width="50%">
-
-### Window Awareness
-Reacts to moving windows on the desktop.
-
-### Lightweight
-Designed to remain simple and resource-friendly.
-
-### Minimal Design
-A small, unobtrusive addition to the desktop.
-
-### GNOME Integration
-Built specifically for the GNOME Shell environment.
-
-</td>
-</tr>
-</table>
+- Animated fly with multiple animation frames
+- Natural wandering movement
+- Smooth and dynamic direction changes
+- Mouse interaction
+- Reaction to moving windows
+- Lightweight and unobtrusive
+- Simple and minimal design
+- Designed specifically for GNOME Shell
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer.png" width="30" height="30" alt="Computer" /> Compatibility
+## 🖥️ Compatibility
 
 Ambed Fly supports **GNOME Shell 45 and later**.
 
@@ -75,9 +47,9 @@ It is intended to work across Linux distributions that use a compatible version 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" width="30" height="30" alt="Installation" /> Installation
+## 📦 Installation
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" width="24" height="24" alt="GNOME Extensions" /> GNOME Extensions
+### GNOME Extensions
 
 The recommended way to install Ambed Fly is through the official **GNOME Extensions** website.
 
@@ -89,7 +61,7 @@ The recommended way to install Ambed Fly is through the official **GNOME Extensi
 
 Search for **Ambed Fly** and install it directly.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Ant.png" width="24" height="24" alt="Manual Installation" /> Manual Installation
+### Manual Installation
 
 Clone the repository:
 
