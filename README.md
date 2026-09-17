@@ -1,105 +1,69 @@
 # Ambed Fly
 
-A lightweight animated insect extension for the GNOME desktop.
-
-Ambed Fly brings small, animated insects to your desktop and gives them natural movement and simple interactions with their surroundings.
-
-The extension currently features flies and ladybugs. Each creature moves independently around the desktop, changes direction naturally, reacts to mouse movement, and responds to moving windows.
-
-Ambed Fly is designed to add a subtle sense of life to the desktop while remaining lightweight, simple, and unobtrusive.
-
-## Preview
-
 <p align="center">
-  <img src="assets/screenshot.png" alt="Ambed Fly" width="800">
+  <strong>A lightweight animated fly for the GNOME desktop.</strong>
 </p>
 
-## Features
+<p align="center">
+  <img src="https://img.shields.io/badge/GNOME%20Shell-45%2B-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME Shell 45+" />
+  <img src="https://img.shields.io/badge/Lightweight-2E7D32?style=for-the-badge&logo=leaf&logoColor=white" alt="Lightweight" />
+  <img src="https://img.shields.io/badge/Open%20Source-6A1B9A?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
+</p>
 
-- Animated flies and ladybugs
-- Independent creature movement
-- Multiple animation frames
-- Natural wandering behavior
-- Smooth direction changes
+<p align="center">
+  Ambed Fly brings a small animated fly to your desktop that naturally wanders around the screen
+  and reacts to mouse movement and moving windows.
+</p>
+
+<p align="center">
+  <i>Simple, lightweight, and unobtrusive — adding a small touch of life to your desktop.</i>
+</p>
+
+---
+
+## ✨ Features
+
+- Animated fly with multiple animation frames
+- Natural wandering movement
+- Smooth and dynamic direction changes
 - Mouse interaction
 - Reaction to moving windows
-- Fly and ladybug movement behavior
-- Choose which insects appear on the desktop
-- Display flies only
-- Display ladybugs only
-- Display both insects
-- Choose the number of insects
-- Support for 1 to 6 insects
-- Simple preferences window
-- Lightweight desktop integration
-- No external services required
+- Lightweight and unobtrusive
+- Simple and minimal design
+- Designed specifically for GNOME Shell
 
-## Settings
+---
 
-Ambed Fly includes a preferences window that lets you control the insects displayed on your desktop.
+## 🖥️ Compatibility
 
-### Creature Type
+Ambed Fly supports **GNOME Shell 45 and later**.
 
-Choose between:
+It is intended to work across Linux distributions that use a compatible version of GNOME Shell.
 
-- Fly only
-- Ladybug only
-- Both
+<p align="center">
+  <img src="https://img.shields.io/badge/GNOME%20Shell-45%2B-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME Shell 45+" />
+  <img src="https://img.shields.io/badge/Linux-Compatible-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+</p>
 
-### Creature Count
+---
 
-Choose how many insects appear on the desktop.
-
-You can display between 1 and 6 insects at the same time.
-
-The default configuration displays one fly.
-
-## Version 2
-
-Version 2 expands Ambed Fly beyond the original animated fly.
-
-The first version introduced a lightweight animated fly that wandered around the GNOME desktop and reacted to mouse movement.
-
-Version 2 introduces multiple insect types and configurable creature behavior, including:
-
-- Ladybug support
-- Fly and ladybug selection
-- Mixed insect mode
-- Configurable creature count
-- Support for up to 6 creatures
-- Independent movement between creatures
-- Creature collision handling
-- Improved interaction with the mouse
-- Interaction with moving windows
-- A dedicated preferences window
-
-## Compatibility
-
-Ambed Fly supports GNOME Shell 45 and later.
-
-It is designed to work across Linux distributions using supported GNOME Shell versions.
-
-## Installation
+## 📦 Installation
 
 ### GNOME Extensions
 
-Ambed Fly is available on the official GNOME Extensions website.
+The recommended way to install Ambed Fly is through the official **GNOME Extensions** website.
 
-Open GNOME Extensions and search for:
+<p align="center">
+  <a href="https://extensions.gnome.org/">
+    <img src="https://img.shields.io/badge/Install%20from-GNOME%20Extensions-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" alt="Install from GNOME Extensions" />
+  </a>
+</p>
 
-`Ambed Fly`
-
-Then open the extension page and enable it.
-
-GNOME Extensions handles the installation and future updates automatically.
+Search for **Ambed Fly** and install it directly.
 
 ### Manual Installation
 
-Manual installation is also available for users who prefer installing the extension directly from the source repository.
-
-#### 1. Clone the repository
-
-Open a terminal and run:
+Clone the repository:
 
 ```bash
 git clone https://github.com/walid-rouibah/ambed-fly.git
