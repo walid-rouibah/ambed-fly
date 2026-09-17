@@ -1,7 +1,14 @@
 {
     "uuid": "ambed-fly@walid",
     "name": "Ambed Fly",
-    "description": "A small animated fly for the GNOME desktop that wanders around and reacts to the mouse.",
-    "shell-version": ["45", "46", "47", "48", "49", "50"],
-    "url": "https://github.com/walrou/ambed-fly"
+    "description": "A lightweight animated insect extension for GNOME, featuring flies and ladybugs with natural movement and mouse interaction.",
+    "shell-version": [
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50"
+    ],
+    "settings-schema": "org.gnome.shell.extensions.ambed-fly"
 }

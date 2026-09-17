@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schemalist>
+
+    <schema
+        id="org.gnome.shell.extensions.ambed-fly"
+        path="/org/gnome/shell/extensions/ambed-fly/">
+
+        <key
+            name="creature-type"
+            type="s">
+            <default>'fly'</default>
+            <summary>Creature type</summary>
+            <description>
+                Choose which creatures appear on the desktop.
+            </description>
+        </key>
+
+        <key
+            name="creature-count"
+            type="i">
+            <default>1</default>
+            <summary>Creature count</summary>
+            <description>
+                Number of creatures shown on the desktop.
+            </description>
+        </key>
+
+    </schema>
+
+</schemalist>
