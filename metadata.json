@@ -10,5 +10,6 @@
         "49",
         "50"
     ],
+    "url": "https://github.com/walid-rouibah/ambed-fly",
     "settings-schema": "org.gnome.shell.extensions.ambed-fly"
 }
