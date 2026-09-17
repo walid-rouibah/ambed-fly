@@ -91,6 +91,18 @@ The installer automatically installs the extension, copies the required files, a
 
 After installation, open **GNOME Extensions** and enable **Ambed Fly**.
 
+In some cases, GNOME Shell may need to be refreshed before the extension appears or works correctly.
+
+If you are using **Xorg**, press **Alt + F2**, type:
+
+```text
+r
+```
+
+and press **Enter**.
+
+If the extension still does not appear, log out and log in again.
+
 ---
 
 ## License
