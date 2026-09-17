@@ -1,12 +1,12 @@
 # Ambed Fly
 
 <p align="center">
-  <strong>A lightweight animated fly for the GNOME desktop.</strong>
+  <strong>A lightweight animated insect extension for the GNOME desktop.</strong>
 </p>
 
 <p align="center">
-  A small animated fly that naturally wanders around your desktop,
-  reacts to mouse movement, and responds to moving windows.
+  Animated flies and ladybugs that naturally wander around your desktop,
+  react to mouse movement, and respond to moving windows.
 </p>
 
 <p align="center">
@@ -23,24 +23,30 @@
 
 ## About
 
-Ambed Fly adds a small animated fly to your GNOME desktop.
+Ambed Fly brings animated insects to your GNOME desktop.
 
-It naturally wanders around the screen, changes direction smoothly, reacts to mouse movement, and responds to moving windows.
+The extension features animated flies and ladybugs that naturally wander around the screen, change direction smoothly, react to mouse movement, and respond to moving windows.
 
-Designed to be lightweight and unobtrusive, Ambed Fly adds a subtle touch of life to the desktop without getting in the way.
+You can control the number of flies and ladybugs displayed on your desktop, allowing you to choose between a subtle experience or a more active desktop.
+
+Designed to be lightweight and unobtrusive, Ambed Fly adds a small touch of life to the desktop without getting in the way.
 
 ---
 
 ## Features
 
-* Animated fly with multiple animation frames
+* Animated flies and ladybugs
+* Multiple animation frames
 * Natural wandering movement
 * Smooth direction changes
 * Mouse interaction
 * Reaction to moving windows
+* Adjustable number of insects
+* Independent control of flies and ladybugs
 * Lightweight and unobtrusive
 * Minimal design
 * Native GNOME Shell extension
+* No external server required
 
 ---
 
@@ -102,6 +108,14 @@ r
 and press **Enter**.
 
 If the extension still does not appear, log out and log in again.
+
+---
+
+## Settings
+
+After installing Ambed Fly, you can customize the extension through its preferences.
+
+You can control the number of flies and ladybugs displayed on the desktop and adjust the experience to your preference.
 
 ---
 
