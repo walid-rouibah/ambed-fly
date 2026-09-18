@@ -46,7 +46,6 @@ Designed to be lightweight and unobtrusive, Ambed Fly adds a small touch of life
 * Lightweight and unobtrusive
 * Minimal design
 * Native GNOME Shell extension
-* No external server required
 
 ---
 
