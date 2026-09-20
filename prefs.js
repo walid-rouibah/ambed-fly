@@ -31,7 +31,6 @@ export default class AmbedFlyPreferences
                 : Gtk.TextDirection.LTR
         );
 
-        // --- Header bar with custom window controls ---
         const headerBar =
             new Adw.HeaderBar();
 
@@ -40,9 +39,6 @@ export default class AmbedFlyPreferences
                 title: 'Ambed Fly',
             });
 
-        // Prevent Adw.HeaderBar from also drawing the OS's own
-        // native title buttons (which caused a duplicate Close
-        // button alongside our custom one below).
         headerBar.show_start_title_buttons = false;
         headerBar.show_end_title_buttons = false;
 
@@ -86,8 +82,6 @@ export default class AmbedFlyPreferences
             }
         );
 
-        // Keep the icon in sync even if maximize state
-        // changes from outside our button (keyboard shortcut, etc.)
         window.connect(
             'notify::maximized',
             () => {
@@ -129,7 +123,6 @@ export default class AmbedFlyPreferences
             closeButton
         );
 
-        // --- Body content ---
         const scroller =
             new Gtk.ScrolledWindow({
                 hscrollbar_policy:
@@ -366,7 +359,6 @@ export default class AmbedFlyPreferences
             content
         );
 
-        // --- Assemble: ToolbarView holds the header bar + body ---
         const toolbarView =
             new Adw.ToolbarView();
 
